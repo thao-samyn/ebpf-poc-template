@@ -1,0 +1,12 @@
+build/
+.vscode/
+*.o
+*.d
+compile_commands.json
+*.out
+*.elf
+*.swp
+*.swo
+*~
+.cache/
+.env
